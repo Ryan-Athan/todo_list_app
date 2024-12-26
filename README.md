@@ -26,19 +26,19 @@ A simple and intuitive Todo List application built with modern JavaScript. Track
     
 3. **Install dependencies:**
     ```bash
-   npm install
+   npm init-y
+
+4. **Installing Vite for file directory**
+    ```bash
+   npm install --save-dev vite
 
     
 ## Usage
 
 1. **Start the development server:**
     ```bash
-   npm start
-
- **or**
- 
-    ```bash
-       npm run dev
+   npm run dev
+      
 
 ## Deployment
 
