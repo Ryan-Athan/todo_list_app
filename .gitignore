@@ -1,0 +1,10 @@
+
+# express.js dependencies
+# firebase dependencies
+
+node_modules/
+*.log
+
+logs/
+npm-run-build.log*
+npm-run-dev.log*

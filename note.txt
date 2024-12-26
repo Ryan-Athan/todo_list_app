@@ -1,0 +1,23 @@
+// https://firebase.google.com/docs/web/setup
+
+
+// npm init or npm init-y
+// npm install firebase or npm install firebase@latest
+// npm install express or npm install express@latest
+
+
+=> How to use Vite 
+
+1 . Install 
+   npm install --save-dev vite
+
+2 . Create a new file as vite.comfig.js
+
+3. Update package.json
+
+4. Run Build the app for production
+   npm run build 
+
+5. Run Vite in development server 
+   npm run dev 
+
