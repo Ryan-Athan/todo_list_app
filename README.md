@@ -29,7 +29,7 @@ A simple and intuitive Todo List application built with modern JavaScript. Track
    npm install
 
     
-## Prerequisites
+## Usage
 
 1. **Start the development server:**
     ```bash
