@@ -36,8 +36,9 @@ A simple and intuitive Todo List application built with modern JavaScript. Track
    npm start
 
  **or**
+ 
     ```bash
-   npm run dev
+       npm run dev
 
 ## Deployment
 
